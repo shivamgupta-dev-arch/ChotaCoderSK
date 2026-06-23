@@ -3,84 +3,191 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | ASP.NET Core Specialist | Problem Solver</h3>
 
----
+<h3 align="center">
+🚀 Senior .NET Developer | ASP.NET Core | Microservices | Clean Architecture | SQL Server
+</h3>
 
-## 🙋‍♂️ About Me
-
-- 🔭 Currently working at **[Akhil Systems Pvt. Ltd.](https://akhilsystems.com/)**  
-- 🏢 Past experience at **Sagar Informatics Pvt. Ltd.**  
-- 🌱 Learning **Kafka** & **Advanced DevOps Concepts**  
-- 👯 Open to collaborate on **Open Source Projects**  
-- 📂 All my work: [GitHub Portfolio](https://github.com/ChotaCoderSK)  
-- 📫 Reach me at: **chotacodersk@gmail.com**  
-- ⚡ Fun fact: I love **gaming (PUBG, Cricket)** and sometimes hit the **gym** 😄  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center"> 
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/jquery.png" title="jQuery"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png" title="MS SQL Server"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" title="Postman"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+<p align="center">
+Building scalable enterprise applications with .NET, Microservices, Kafka & Cloud Technologies
 </p>
 
 ---
 
-## 🏢 Experience
+## 👨‍💻 About Me
 
-### 🔹 Akhil Systems Pvt. Ltd. — *Software Developer* (Nov 2021 – Present)
-- Built healthcare solutions using **ASP.NET Core, MVC, C#, SQL Server**  
-- Integrated **Kafka Producer/Consumer** for real-time data sync  
-- Developed **REST APIs** + WhatsApp API for patient notifications  
-- Implemented secure **Payment Gateway integration**  
+🔹 Senior .NET Developer with **5+ Years of Experience**
 
-### 🔹 Sagar Informatics Pvt. Ltd. — *Software Developer* (Jan 2018 – Oct 2021)
-- Developed **logistics & warehouse management solutions**  
-- Built **custom reporting modules** in MS SQL Server  
-- Worked on **API integrations** & automated workflows  
+🔹 Currently working at **Applied Energy Technologies Pvt. Ltd.**
+
+🔹 Expertise in **ASP.NET Core, Web API, Microservices, SQL Server & Clean Architecture**
+
+🔹 Experienced in **Telecom, Healthcare & Logistics Domains**
+
+🔹 Strong background in **Performance Optimization, System Design & Enterprise Applications**
+
+🔹 Passionate about solving complex backend problems and building scalable systems
+
+🔹 Currently exploring **Azure, Docker, Redis & Advanced System Design**
+
+📍 Gurugram, India
+
+📫 Email: **guptashivam20508@gmail.com**
+
+💼 LinkedIn: **linkedin.com/in/shivam-gupta-5991991b4**
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+</p>
+
+### Tools & Technologies
+
+- ASP.NET Core (.NET 6/8)
+- ASP.NET MVC
+- Web API
+- Dapper
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- CQRS
+- Repository Pattern
+- Apache Kafka
+- Azure Service Bus
+- SignalR
+- JWT Authentication
+- OAuth 2.0
+- Redis
+- Swagger
+- Postman
+- Azure DevOps
+- CI/CD Pipelines
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Applied Energy Technologies Pvt. Ltd.
+**Senior .NET Developer** | Jan 2026 – Present
+
+🔹 Designed and developed a real-time Telecom Energy Monitoring System
+
+🔹 Built consolidated APIs integrating multiple data sources
+
+🔹 Improved API response time from **900ms → 220ms**
+
+🔹 Optimized complex SQL procedures achieving **65% faster execution**
+
+🔹 Implemented Clean Architecture & CQRS-based microservices
+
+---
+
+### 🏥 Akhil Systems Pvt. Ltd.
+**.NET Developer** | Dec 2023 – Dec 2025
+
+🔹 Developed Healthcare Management System
+
+🔹 Built 12+ enterprise APIs & microservices
+
+🔹 Implemented Kafka-based event-driven architecture
+
+🔹 Developed AI-powered WhatsApp chatbot
+
+🔹 Automated 800+ patient communications monthly
+
+---
+
+### 📦 Sagar Informatics Pvt. Ltd.
+**.NET Developer** | Apr 2021 – Nov 2023
+
+🔹 Developed ERP & Logistics Management Systems
+
+🔹 Integrated DHL, FedEx, DTDC & Blue Dart APIs
+
+🔹 Built shipment tracking and CRM modules
+
+🔹 Improved report performance by up to 80%
+
+---
+
+## 🏆 Key Achievements
+
+🏅 Reduced API response time by **75%**
+
+🏅 Kafka pipeline processing **50,000+ events/hour**
+
+🏅 Automated **800+ manual communications/month**
+
+🏅 Improved SQL performance by **80%**
+
+🏅 Built scalable enterprise systems across Telecom, Healthcare & Logistics domains
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChotaCoderSK&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChotaCoderSK&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChotaCoderSK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChotaCoderSK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChotaCoderSK&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-gupta-5991991b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/Shivam61071300"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="mailto:chotacodersk@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-  <a href="https://github.com/ChotaCoderSK"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+<a href="mailto:guptashivam20508@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/shivam-gupta-5991991b4">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ChotaCoderSK">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 </p>
 
 ---
 
-## ❤ Views & Followers  
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChotaCoderSK&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
-  <a href="https://github.com/ChotaCoderSK?tab=followers"><img src="https://img.shields.io/github/followers/ChotaCoderSK?label=Followers&style=social" alt="followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=ChotaCoderSK&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+---
+
+<h3 align="center">
+⭐ Building Scalable Enterprise Solutions with .NET & Cloud Technologies ⭐
+</h3>
